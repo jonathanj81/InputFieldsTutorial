@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">InputFieldsStarter</string>
+
+    <string name="placeholder_text">Placeholder text…</string>
+    <string name="input_label">Input Label</string>
+    <string name="error_message">Error message…</string>
+    <string name="cd_calendar">Calendar</string>
 </resources>
